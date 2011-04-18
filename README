@@ -1,0 +1,48 @@
+Current Version specifics till November'2009
+
+ ###                                                         
+  #  #    #  ####  ######  ####  #    # #####  # ##### #   # 
+  #  ##   # #      #      #    # #    # #    # #   #    # #  
+  #  # #  #  ####  #####  #      #    # #    # #   #     #   
+  #  #  # #      # #      #      #    # #####  #   #     #   
+  #  #   ## #    # #      #    # #    # #   #  #   #     #   
+ ### #    #  ####  ######  ####   ####  #    # #   #     #   
+
+ ###              By,
+  #  #    # 
+  #  ##   #       ABK  ~  AbhishekKr  ~  aBionic
+  #  # #  #       
+  #  #  # #       http://www.twitter.com/aBionic
+  #  #   ## 
+ ### #    #       http://abhishekkr.wordpress.com
+            
+  #####                                            
+ #     # ######  ####  #    # #####  # ##### #   # 
+ #       #      #    # #    # #    # #   #    # #  
+  #####  #####  #      #    # #    # #   #     #   
+       # #      #      #    # #####  #   #     #   
+ #     # #      #    # #    # #   #  #   #     #   
+  #####  ######  ####   ####  #    # #   #     #   
+
+
+
+
+In world full of insecurities, the only thing we can rely on security measures to avoid the threats... but what if the security measures themselves give way to attackers to bypass all security and rule the un-informed.
+
+We have a world of Network full of network services, each with a protocol to follow and a security mechanism to depend upon.
+Now if a service is used without implementing the provided security mechanism, its fault of service provider &/or user for such a vulnerable service which is open to get exploited by anyone.
+
+But, what can a service provider and user do to protect themselves if inspite of implementing provided security measures, they are open to be exploited by security experts.
+
+Now, here we are gonna discuss the old and latest known security flaw cases.
+
+Network Security Breaches
+WHY They Occur... HOW They Occur... HOW To Counter Them...
+
+Without countering them Network could be like a war place with Identity Crisis and without Confidentiality; where your data is not secure; your economy is not secure; etc. etc.
+…....ACTUALLY, NOTHING IS SECURE
+FOR IGNORANT
+IT NEVER WILL BE
+
+Under “Insecurity In Security”, I'll be discussing the promises of network for a secured (with Authenticity, Integrity and Confidentiality ) service; attacked by the flaws in the promise; further patched by the Counter Measures.
+
